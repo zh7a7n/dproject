@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+dvenv
+ConEmuPack.161206
+db.sqlite3
+/static
+.DS_Store
